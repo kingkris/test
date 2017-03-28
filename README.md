@@ -1,2 +1,4 @@
 # test
-git demo
+git demo, 
+
+Bingo, am using git
